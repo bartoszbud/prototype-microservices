@@ -30,7 +30,9 @@
         "timonwong.shellcheck",
         "davidanson.vscode-markdownlint",
         "streetsidesoftware.code-spell-checker",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "ms-azuretools.vscode-containers",
+        "ms-azuretools.vscode-docker"
       ]
     }
   }
